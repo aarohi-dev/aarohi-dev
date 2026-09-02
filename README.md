@@ -52,7 +52,7 @@ My current technical playground spans:
 ### Full-Stack & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,express,flask,postgres,mysql,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,express,flask,postgres,mysql,mongodb,supabase,fastapi,postman" />
 </p>
 
 ### Cloud & DevOps
