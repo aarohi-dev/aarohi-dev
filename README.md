@@ -18,8 +18,8 @@ and making it actually work.
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│   🌐 Full-Stack Systems        🤖 ML / AI Systems             │
-│   ☁️ Cloud Infrastructure      ⚙️ Backend & APIs             │
+│   🌐 Full-Stack Systems        🤖 ML / AI Systems           │
+│   ☁️ Cloud Infrastructure      ⚙️ Backend & APIs            │
 │   🗄️ Data-Driven Applications  🚀 Production Deployments    │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
